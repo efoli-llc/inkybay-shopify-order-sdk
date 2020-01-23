@@ -1,6 +1,6 @@
 <?php
 
-	include 'conf.php';
+	require_once('conf.php');
 
 
 	//	Get full order details	
