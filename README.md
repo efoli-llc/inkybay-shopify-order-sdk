@@ -20,7 +20,7 @@ Where you need the order item data, just add bellow code to your PHP file :
 <code>require_once('conf.php');</code><br/>
 <code>$data = $orderService->getOrderItem('orderId', 'itemId', 'json');</code>
 
-You will get <b>'orderId'</b>, & <b>'itemId'</b> from your hook URL by $_GET['orderId'] & $_GET['itemId']
+You will get <b>'orderId'</b>, & <b>'itemId'</b> from your hook URL by $_GET['orderId'] & $_GET['itemId']<br/>
 Sample codes on : <a href="https://github.com/efoli-llc/inkybay-shopify-order-sdk/blob/master/item.php" target="_blank">item.php</a>
 
 
@@ -30,7 +30,7 @@ Where you need all the order data, just add bellow code to your PHP file :
 <code>require_once('conf.php');</code><br/>
 <code>$data = $orderService->getOrder('orderId', 'json');</code>
 
-You will get <b>'orderId'</b> from your hook URL by $_GET['orderId']
+You will get <b>'orderId'</b> from your hook URL by $_GET['orderId']<br/>
 Sample codes on : <a href="https://github.com/efoli-llc/inkybay-shopify-order-sdk/blob/master/order.php" target="_blank">order.php</a>
 
 --- Thanks.
