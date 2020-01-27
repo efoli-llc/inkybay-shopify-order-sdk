@@ -1,9 +1,8 @@
 # SDK to get order data from Inkybay Shopify order API.
 SDK to get order data from Inkybay Shopify order API.
-
-
-<b>Follow the steps to setup SDK with Inkybay Shopify order API</b>
-
+<br/>
+<b>Follow the steps to setup SDK with Inkybay Shopify order API</b><br/>
+<br/>
 1. <b>Get your AccessKey, SecretKey & setup Hook URL</b><br/>
 Inkybay=>Settings=>Add-Ons=>Order Batch Download & Exporter=>Settings<br/>
 After "Activate API" you will get your AccessKey, SecretKey<br/>
