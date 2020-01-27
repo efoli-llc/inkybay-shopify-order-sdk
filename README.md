@@ -10,8 +10,8 @@ Hook URL is your server URL, where API will send 'orderId' &  'itemId' after the
 <br/>
 2. <b>Setup SDK</b><br/>
 Open conf.php and edit :<br/>
-Set your accessKey on <code>'\_\_ACCESS_KEY_\_'</code><br/>
-Set your secretKey on  <code>'\_\_SECRET_KEY_\_'</code><br/>
+Set your accessKey on <code>'__ACCESS_KEY__'</code><br/>
+Set your secretKey on  <code>'__SECRET_KEY__'</code><br/>
 <br/>
 3. <b>Get order item data</b><br/>
 Where you need the order item data, just add bellow code to your PHP file :<br/>
