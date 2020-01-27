@@ -1,4 +1,4 @@
-# inkybay-shopify-order-sdk
+# SDK to get order data from Inkybay Shopify order API.
 SDK to get order data from Inkybay Shopify order API.
 
 
